@@ -18,8 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
-.task-container { text-align: center;
-}
+  .task-container { 
+    text-align: center;
+  }
 }
 .centered-container {
   display: block;
