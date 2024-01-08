@@ -36,14 +36,14 @@ body {
   display: flex;
 }
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .task-list, h3 {
-  list-style:none;
+  list-style: none;
 }
 input,button{
-  outline:none;
+  outline: none;
 }
 button {
   background: none;
@@ -136,14 +136,14 @@ button:hover {
 
 /* Edit Task */
 ul li .text-input {
-  display:none
+  display: none
 }
 
 .edit-mode .text-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode label {
-  display:none;
+  display: none;
 }
